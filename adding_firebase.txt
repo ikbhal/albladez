@@ -1,0 +1,13 @@
+
+try to add firebase to svelte here 
+
+---
+functionality 
+save clap count alone 
+other
+ comments - add comment 
+ viewed person name
+ login not required , will try
+
+---
+https://fireship.io/lessons/svelte-v3-overview-firebase/
